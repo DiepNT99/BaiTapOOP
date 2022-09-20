@@ -1,0 +1,12 @@
+﻿D:\PROGRAM\VS\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai13_Bai14_Bai15.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Certificate.cpp
+  Employee.cpp
+D:\STUDY\FPTCompany\Traning\Bai13_Bai14_Bai15\Bai13_Bai14_Bai15\Employee.cpp(115,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EmployeeManagerment.cpp
+  Experience.cpp
+  Fresher.cpp
+  Intern.cpp
+  Lib.cpp
+  Source.cpp
+  Generating Code...
+  Bai13_Bai14_Bai15.vcxproj -> D:\STUDY\FPTCompany\Traning\Bai13_Bai14_Bai15\x64\Debug\Bai13.exe
